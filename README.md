@@ -1,24 +1,72 @@
 # pumas
 
+[中文版本](./README.cn.md)
+
 Power Usage Monitor for Apple Silicon
 
-- **Upstream**: <https://github.com/graelo/pumas>
-- **Homepage**: <>
-- **Latest release**: `v0.5.0` (2026-04-14)
-- **Last commit**: 2026-09-04
-- **License**: MIT
-- **Stars**: 219 · **Forks**: 11 · **Open issues**: 22 · **Contributors**: 3
+![pumas](https://repo.x-cmd.io/pumas.svg)
 
-## Installation
+## Install
 
 ```sh
 x install pumas
 ```
 
-See <https://x-cmd.com/install/pumas> for details.
+## Code insight
 
-## Data
+Total: **9,617** lines of code across **50** files in the top 5 languages.
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 3,982 | 170 | 576 | 40 |
+| Xml | 3,895 | 1 | 0 | 3 |
+| Svg | 1,285 | 0 | 0 | 1 |
+| Json | 283 | 0 | 0 | 3 |
+| Toml | 93 | 133 | 28 | 3 |
 
-_Last regenerated: 2026-09-09T20:14:14Z._
+## Source
+
+- **Upstream**: <https://github.com/graelo/pumas>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v0.5.0` (2026-04-14)
+- **Last commit**: 2026-09-04
+- **Assets in release**: 1
+
+## Popularity
+
+- **Stars**: 220 · **Forks**: 11 · **Open issues**: 22 · **Contributors**: 3
+
+## Totals (cumulative)
+
+- **Releases**: 27 · **Merged PRs**: 88 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 2 · **Commits**: 324
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 5 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-12 | 0 | 17 | 0 | 0 | 0 | 24 |
+| 90d | 2026-06-12 | 0 | 23 | 0 | 0 | 0 | 37 |
+| last180d | 2026-03-14 | 2 | 61 | 0 | 3 | 1 | 110 |
+| 360d | 2025-09-15 | 7 | 68 | 0 | 10 | 2 | 141 |
+| last720d | 2024-09-20 | 8 | 69 | 0 | 12 | 2 | 198 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pumas-aarch64-apple-darwin.zip](https://github.com/graelo/pumas/releases/download/v0.5.0/pumas-aarch64-apple-darwin.zip) | 599.3 KiB | `native/darwin/arm64` |
+
+## Improve this data
+
+Install metadata for pumas lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pumas` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pumas.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:44:07Z._
