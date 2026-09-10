@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.0"
   latestRelease: "v0.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:48:49Z
+  collectedAt: 2026-09-10T23:44:03Z
 timeline:
   created: 2023-04-08
   lastCommit: 2026-09-04
@@ -85,7 +85,7 @@ total:
   commit: 324
 ---
 path: /home/runner/.x-repo/github.com/graelo/pumas
-collectedAt: 2026-09-10T17:48:50Z
+collectedAt: 2026-09-10T23:44:04Z
 loc:
   Rust:
     code: 3982
