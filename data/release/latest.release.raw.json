@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 613645,
       "digest": "sha256:445c9405bee094188b75b2cd3f35ea33c246f3bbc12da3fa5ae7c4f6dc3c58e9",
-      "download_count": 69,
+      "download_count": 71,
       "created_at": "2026-04-14T07:01:58Z",
       "updated_at": "2026-04-14T07:01:58Z",
       "browser_download_url": "https://github.com/graelo/pumas/releases/download/v0.5.0/pumas-aarch64-apple-darwin.zip"
