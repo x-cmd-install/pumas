@@ -14,7 +14,7 @@ x install pumas
 
 ## Code insight
 
-Total: **9,617** lines of code across **50** files in the top 5 languages.
+Total: **9,613** lines of code across **50** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **9,617** lines of code across **50** files in the top 5 languages.
 | Xml | 3,895 | 1 | 0 | 3 |
 | Svg | 1,285 | 0 | 0 | 1 |
 | Json | 283 | 0 | 0 | 3 |
-| Toml | 93 | 133 | 28 | 3 |
+| Toml | 89 | 133 | 27 | 3 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **9,617** lines of code across **50** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.0` (2026-04-14)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-04
 - **Assets in release**: 1
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **9,617** lines of code across **50** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 92 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 2 · **Commits**: 329
+- **Releases**: 27 · **Merged PRs**: 93 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 2 · **Commits**: 334
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 5 | 0 | 0 | 0 | 6 |
-| last60d | 2026-08-04 | 0 | 17 | 0 | 0 | 0 | 20 |
-| 90d | 2026-07-05 | 0 | 22 | 0 | 0 | 0 | 28 |
-| last180d | 2026-04-06 | 1 | 60 | 0 | 1 | 1 | 97 |
-| 360d | 2025-10-08 | 5 | 70 | 0 | 8 | 2 | 133 |
-| last720d | 2024-10-13 | 8 | 73 | 0 | 12 | 2 | 202 |
+| 30d | 2026-09-04 | 0 | 5 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-05 | 0 | 18 | 0 | 0 | 0 | 15 |
+| 90d | 2026-07-06 | 0 | 23 | 0 | 0 | 0 | 32 |
+| last180d | 2026-04-07 | 1 | 61 | 0 | 1 | 1 | 98 |
+| 360d | 2025-10-09 | 5 | 71 | 0 | 8 | 2 | 137 |
+| last720d | 2024-10-14 | 8 | 74 | 0 | 12 | 2 | 207 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for pumas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:28:38Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:57:46Z._
