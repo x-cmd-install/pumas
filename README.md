@@ -41,18 +41,18 @@ Total: **9,613** lines of code across **50** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 93 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 2 · **Commits**: 334
+- **Releases**: 27 · **Merged PRs**: 93 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 2 · **Commits**: 335
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 5 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-05 | 0 | 18 | 0 | 0 | 0 | 15 |
-| 90d | 2026-07-06 | 0 | 23 | 0 | 0 | 0 | 32 |
-| last180d | 2026-04-07 | 1 | 61 | 0 | 1 | 1 | 98 |
-| 360d | 2025-10-09 | 5 | 71 | 0 | 8 | 2 | 137 |
-| last720d | 2024-10-14 | 8 | 74 | 0 | 12 | 2 | 207 |
+| 30d | 2026-09-05 | 0 | 5 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-06 | 0 | 18 | 0 | 0 | 0 | 16 |
+| 90d | 2026-07-07 | 0 | 23 | 0 | 0 | 0 | 33 |
+| last180d | 2026-04-08 | 1 | 61 | 0 | 1 | 1 | 99 |
+| 360d | 2025-10-10 | 5 | 71 | 0 | 8 | 2 | 138 |
+| last720d | 2024-10-15 | 8 | 74 | 0 | 12 | 2 | 208 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for pumas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:57:46Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T07:04:10Z._
