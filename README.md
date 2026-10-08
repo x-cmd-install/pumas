@@ -47,12 +47,12 @@ Total: **9,613** lines of code across **50** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 5 | 0 | 0 | 0 | 9 |
-| last60d | 2026-08-08 | 0 | 13 | 0 | 0 | 0 | 16 |
-| 90d | 2026-07-09 | 0 | 23 | 0 | 0 | 0 | 33 |
-| last180d | 2026-04-10 | 1 | 59 | 0 | 1 | 1 | 99 |
-| 360d | 2025-10-12 | 5 | 71 | 0 | 8 | 2 | 138 |
-| last720d | 2024-10-17 | 8 | 74 | 0 | 12 | 2 | 208 |
+| 30d | 2026-09-08 | 0 | 5 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-09 | 0 | 12 | 0 | 0 | 0 | 16 |
+| 90d | 2026-07-10 | 0 | 22 | 0 | 0 | 0 | 33 |
+| last180d | 2026-04-11 | 1 | 59 | 0 | 1 | 1 | 99 |
+| 360d | 2025-10-13 | 5 | 71 | 0 | 8 | 2 | 138 |
+| last720d | 2024-10-18 | 8 | 74 | 0 | 12 | 2 | 208 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for pumas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:08:05Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:15:55Z._
